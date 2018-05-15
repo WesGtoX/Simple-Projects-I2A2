@@ -1,0 +1,54 @@
+==============================
+eliezer thiago
+
+
+
+====================
+T1: Accuracy: 92.58%
+T2: Accuracy: 93.24%
+T3: Accuracy: 92.79%
+T4: Accuracy: 91.4%
+T5: Accuracy: 93.22%
+T6: Accuracy: 92.3%
+T7: Accuracy: 92.95%
+T8: Accuracy: 92.29%
+T9: Accuracy: 91.36%
+T10: Accuracy: 92.57%
+===
+Average Accuracy: 92.47%
+
+==============================
+eliezer rafael
+
+
+
+====================
+T1: Accuracy: 88.21%
+T2: Accuracy: 89.43%
+T3: Accuracy: 86.17%
+T4: Accuracy: 89.38%
+T5: Accuracy: 89.9%
+T6: Accuracy: 85.43%
+T7: Accuracy: 86.98%
+T8: Accuracy: 86.75%
+T9: Accuracy: 88.22%
+T10: Accuracy: 89.37%
+===
+Average Accuracy: 87,98%
+
+==============================
+thiago rafael
+
+====================
+T1: Accuracy: 83.61%
+T2: Accuracy: 82.88%
+T3: Accuracy: 81.24%
+T4: Accuracy: 83.6%
+T5: Accuracy: 85.43%
+T6: Accuracy: 84.98%
+T7: Accuracy: 85.7%
+T8: Accuracy: 83.73%
+T9: Accuracy: 83.45%
+T10: Accuracy: 87.02%
+===
+Average Accuracy: 84,16%

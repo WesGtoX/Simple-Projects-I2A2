@@ -1,0 +1,36 @@
+Exercício
+
+Dado um input 15 x 15 x 1.
+Calcular a convolução a partir dos filtros 3 x 3.
+Calcular a função de ativação RELU.
+Calcular a camada max-pooling.
+Fazer o flatten para o classificador.
+Outras informações.
+Não usar padding.
+Utilizar o stride 3 x 3.
+Utilizar a janela do pooling 2 x 2.
+
+======================================================================================================
+
+Pessoal sobre o MLP 
+O resultado esperado das entradas são 0.01 e 0.99
+E a taxa de aprendizagem é: 0.50
+
+Pessoal, para o exercício de MLP segue os resultados da primeira época como referência.
+
+Erro Total (epoca=1) 0.2983711087600027
+
+Camada oculta (epoca=1) - Pesos corrigidos
+w1 = 0.14978072
+w2 = 0.19978072
+w3 = 0.24950229
+w4 = 0.29950229
+
+Camada saída (epoca=1) - Pesos corrigidos
+w5 = 0.35891648
+w6 = 0.40891648
+w7 = 0.51137012
+w8 = 0.56137012
+
+Complementando a aula de Convolutional Neural Networks
+https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/

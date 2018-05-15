@@ -1,0 +1,24 @@
+=====
+img01
+=====
+
+Collecting multiprocessing
+  Using cached multiprocessing-2.6.2.1.tar.gz
+    Complete output from command python setup.py egg_info:
+    Traceback (most recent call last):
+      File "<string>", line 1, in <module>
+      File "C:\Users\Wesley\AppData\Local\Temp\pycharm-packaging\multiprocessing\setup.py", line 94
+        print 'Macros:'
+                      ^
+    SyntaxError: Missing parentheses in call to 'print'. Did you mean print(int 'Macros:')?
+    
+    ----------------------------------------
+
+Command "python setup.py egg_info" failed with error code 1 in C:\Users\Wesley\AppData\Local\Temp\pycharm-packaging\multiprocessing\
+
+=======================================================================================================================================
+linha 26:	pt_stop = nltk.corpus.stopwords.words('english')
+=====
+img02	img03
+=====
+=======================================================================================================================================
